@@ -11,7 +11,10 @@
 	  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="style.css">
-	
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
 
     <style>
         body {
@@ -345,8 +348,8 @@ In her free time, she loves to ride horses, practice yoga and bake vegan dessert
 	</div>
 	
 	<div class="workRow">
-		<div class="imageContainer"><img src="work/For AFTERFIVE LIFESTYLE .jpg">   <h3 class="toparaAbsolute">For AFTERFIVE LIFESTYLE</h3></div>
-		<div class="imageContainer"><img src="work/For NOURA GLOW.jpg">   <h3 class="toparaAbsolute">For NOURA GLOW</h3></div>
+		<div class="imageContainer"><img src="https://i.ibb.co/ZG675F1/For-AFTERFIVE-LIFESTYLE.jpg">   <h3 class="toparaAbsolute">For AFTERFIVE LIFESTYLE</h3></div>
+		<div class="imageContainer"><img src="https://i.ibb.co/894B4Bc/For-NOURA-GLOW.jpg" ">   <h3 class="toparaAbsolute">For NOURA GLOW</h3></div>
 		<div class="imageContainer"><img src="work/Shot by Franz Lanzaderas (1).jpg">   <h3 class="toparaAbsolute">Shot by Franz Lanzaderas</h3></div>
 	</div>
 	
@@ -358,7 +361,7 @@ In her free time, she loves to ride horses, practice yoga and bake vegan dessert
 	
 	
 	<div class="workRow">
-		<div class="imageContainer"><img src="work/Shot by Moderate Films for NA FORRÉR.jpg">   <h3 class="toparaAbsolute">Shot by Moderate Films for NA FORRÉR</h3></div>
+		<div class="imageContainer"><img src="https://i.ibb.co/pRrfZwT/Shot-by-Moderate-Films-for-NA-FORR-R.jpg">   <h3 class="toparaAbsolute">Shot by Moderate Films for NA FORRÉR</h3></div>
 		
 		<div class="imageContainer"><img src="work/Shot by Rafie HS.jpeg">   <h3 class="toparaAbsolute">Shot by Rafie HS</h3></div> 
 		<div class="imageContainer"><img src="work/Shot by Mujahid Johar .jpg">   <h3 class="toparaAbsolute">Shot by Mujahid Johar </h3></div> 
@@ -935,12 +938,12 @@ loadingAnimation.style.display = "block";
 	  location.reload();
 	  
     } else {
-      console.log("Error submitting order.");
+      console.log("Error submitting message.");
 	  loadingAnimation.style.display = "none";
     }
   })
   .catch(function(error) {
-    console.log("Error submitting order.");
+    console.log("Error submitting message.");
 	loadingAnimation.style.display = "none";
     console.error(error);
   });
