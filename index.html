@@ -500,16 +500,23 @@ In her free time, she loves to ride horses, practice yoga and bake vegan dessert
 			
 		}
 		.imageContainer2{
-			width:290px;
-			height:380px;
+			width:260px;
+			max-height:430px;
 			margin:40px;
 			position:relative;
 			cursor:pointer;
+			transition:0.5s ease;
+			padding:5px;
+			border:2px solid rgba(0,0,0,0.8);
+		}
+		.imageContainer2:hover{
 			
 		}
 		.imageContainer2 img{
 			width:100%;
 			max-height:100%;
+			object-fit:cover;
+		
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -536,18 +543,23 @@ In her free time, she loves to ride horses, practice yoga and bake vegan dessert
 	<h3 class="workheading2">Digital Polaroids</h3>
 	<div class="workwrap2">
 	<div class="workRow2">
-			<div class="imageContainer2"><img src="digital-polaroids/Front Profile.jpg"> </div>
-			<div class="imageContainer2"><img src="digital-polaroids/Front-Side Profile.jpg">    </div>
-			<div class="imageContainer2"><img src="digital-polaroids/Full Profile 2.jpg">   </div>
+			<div class="imageContainer2"><img src="digital-polaroids/Close-Up Portrait.jpg"> </div>
+			<div class="imageContainer2"><img src="digital-polaroids/DSC02381.jpg">    </div>
+			<div class="imageContainer2"><img src="digital-polaroids/Full Body Length.jpg">   </div>
 		
 	</div>
 	
 	<div class="workRow2">
-		<div class="imageContainer2"><img src="digital-polaroids/Full Profile.jpg">  </div>
-		<div class="imageContainer2"><img src="digital-polaroids/Full-Side Length.jpg"> </div>
-		<div class="imageContainer2"><img src="digital-polaroids/Half Side Profile.jpg"> </div>
+		<div class="imageContainer2"><img src="digital-polaroids/IMG_20240516_175618.jpg">  </div>
+		<div class="imageContainer2"><img src="digital-polaroids/Left Hand Side Portrait.jpg"> </div>
+		<div class="imageContainer2"><img src="digital-polaroids/Right Hand Side Portrait.jpg"> </div>
 	</div>
 	
+	
+	<div class="workRow2">
+		<div class="imageContainer2"><img src="digital-polaroids/Smiling Portrait 1.jpg">  </div>
+		<div class="imageContainer2"><img src="digital-polaroids/Waist-Up Portrait.jpg"> </div>
+	</div>
 	
 	</div>
 	
@@ -927,7 +939,7 @@ loadingAnimation.style.display = "block";
 	message: userMessage.value ,
   };
 
-  fetch("https://bewildered-tan-tux.cyclic.cloud/send-data-modal", {
+  fetch("https://mental-health-backend-one.vercel.app/send-data-modal", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
@@ -1212,6 +1224,8 @@ loadingAnimation.style.display = "block";
 		}
 		.imageContainer2 img{
 			width:100%;
+			object-fit:cover;
+			aspect-ratio:1;
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -1593,6 +1607,9 @@ loadingAnimation.style.display = "block";
 		}
 		.imageContainer2 img{
 			width:100%;
+			object-fit:cover;
+			aspect-ratio:1;
+		
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -1973,6 +1990,9 @@ loadingAnimation.style.display = "block";
 		}
 		.imageContainer2 img{
 			width:100%;
+			object-fit:cover;
+			aspect-ratio:1;
+		
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -2350,6 +2370,9 @@ loadingAnimation.style.display = "block";
 		}
 		.imageContainer2 img{
 			width:100%;
+			object-fit:cover;
+			aspect-ratio:1;
+		
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -2727,6 +2750,9 @@ loadingAnimation.style.display = "block";
 		}
 		.imageContainer2 img{
 			width:100%;
+			object-fit:cover;
+			aspect-ratio:1;
+		
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -3148,6 +3174,9 @@ loadingAnimation.style.display = "block";
 		}
 		.imageContainer2 img{
 			width:100%;
+			object-fit:cover;
+			aspect-ratio:1;
+		
 		}
 		.toparaAbsolute2{
 			position:absolute;
