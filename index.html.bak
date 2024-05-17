@@ -1225,7 +1225,7 @@ loadingAnimation.style.display = "block";
 		.imageContainer2 img{
 			width:100%;
 			object-fit:cover;
-			aspect-ratio:1;
+
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -1608,7 +1608,7 @@ loadingAnimation.style.display = "block";
 		.imageContainer2 img{
 			width:100%;
 			object-fit:cover;
-			aspect-ratio:1;
+		
 		
 		}
 		.toparaAbsolute2{
@@ -1991,7 +1991,7 @@ loadingAnimation.style.display = "block";
 		.imageContainer2 img{
 			width:100%;
 			object-fit:cover;
-			aspect-ratio:1;
+			
 		
 		}
 		.toparaAbsolute2{
@@ -2371,7 +2371,7 @@ loadingAnimation.style.display = "block";
 		.imageContainer2 img{
 			width:100%;
 			object-fit:cover;
-			aspect-ratio:1;
+		
 		
 		}
 		.toparaAbsolute2{
@@ -2751,8 +2751,7 @@ loadingAnimation.style.display = "block";
 		.imageContainer2 img{
 			width:100%;
 			object-fit:cover;
-			aspect-ratio:1;
-		
+			
 		}
 		.toparaAbsolute2{
 			position:absolute;
@@ -3175,7 +3174,7 @@ loadingAnimation.style.display = "block";
 		.imageContainer2 img{
 			width:100%;
 			object-fit:cover;
-			aspect-ratio:1;
+		
 		
 		}
 		.toparaAbsolute2{
