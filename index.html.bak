@@ -344,30 +344,30 @@ In her free time, she loves to ride horses, practice yoga and bake vegan dessert
 	<h3 class="workheading">Portfolio</h3>
 	<div class="workwrap">
 	<div class="workRow">
-			<div class="imageContainer"><img src="work/For Lisa Borhan S_S 18 I Shot by Low-Fidelity Portrayals.jpg">  <h3 class="toparaAbsolute">For Lisa Borhan</h3></div>
-			<div class="imageContainer"><img src="work/For NA FORRÉR.jpeg">   <h3 class="toparaAbsolute">For NA FORRÉR</h3>  </div>
-			<div class="imageContainer"><img src="work/For JOVIAN MANDAGIE I Shot by Nasrul Hadi.jpg">   <h3 class="toparaAbsolute">For JOVIAN MANDAGIE</h3></div>
+			<div class="imageContainer"><img src="work/For Lisa Borhan S_S 18 I Shot by Low-Fidelity Portrayals.jpg">  <a href="https://www.instagram.com/lisa.borhan?igsh=MW1qb25yN2pkMXUwOA==" target="_blank" style="text-decoration:none;"><h3 class="toparaAbsolute">For Lisa Borhan</h3></a></div>
+			<div class="imageContainer"><img src="work/For NA FORRÉR.jpeg"> <a href="https://www.instagram.com/naforrer?igsh=cXVhcTVvOGQ2cnB1" style="text-decoration:none;" target="_blank">  <h3 class="toparaAbsolute">For NA FORRÉR</h3> </a> </div>
+			<div class="imageContainer"><img src="work/For JOVIAN MANDAGIE I Shot by Nasrul Hadi.jpg"> <a href="https://www.instagram.com/jmandagie?igsh=MXIxejR0cXJ3aTExMQ==" target="_blank" style="text-decoration:none;">  <h3 class="toparaAbsolute">For JOVIAN MANDAGIE</h3></a></div>
 		
 	</div>
 	
 	<div class="workRow">
 		<div class="imageContainer"><img src="https://i.ibb.co/ZG675F1/For-AFTERFIVE-LIFESTYLE.jpg">   <h3 class="toparaAbsolute">For AFTERFIVE LIFESTYLE</h3></div>
-		<div class="imageContainer"><img src="https://i.ibb.co/894B4Bc/For-NOURA-GLOW.jpg" ">   <h3 class="toparaAbsolute">For NOURA GLOW</h3></div>
+		<div class="imageContainer"><img src="https://i.ibb.co/894B4Bc/For-NOURA-GLOW.jpg" > <a href="https://www.instagram.com/nouraglow?igsh=aThocGd3OWpoaHQ0" style="text-decoration:none;" target="_blank">  <h3 class="toparaAbsolute">For NOURA GLOW</h3></a></div>
 		<div class="imageContainer"><img src="work/Shot by Franz Lanzaderas (1).jpg">   <h3 class="toparaAbsolute">Shot by Franz Lanzaderas</h3></div>
 	</div>
 	
 	<div class="workRow">
 		<div class="imageContainer"><img src="work/Shot by Franz Lanzaderas.jpg">   <h3 class="toparaAbsolute">Shot by Franz Lanzaderas</h3></div>
-		<div class="imageContainer"><img src="work/Shot by Jane Ching Photography (2).jpg">   <h3 class="toparaAbsolute">Shot by Jane Ching Photography</h3></div>
-		<div class="imageContainer"><img src="work/Shot by Macromalekule for 1001 Magazine.jpg">   <h3 class="toparaAbsolute">Shot by Macromalekule for 1001 Magazine</h3></div>
+		<div class="imageContainer"><img src="work/Shot by Jane Ching Photography (2).jpg">  <a href="https://www.instagram.com/janechingphotography?igsh=MWd6YnRsankxaHVpNA==" style="text-decoration:none;" target="_blank"> <h3 class="toparaAbsolute">Shot by Jane Ching Photography</h3></a></div>
+		<div class="imageContainer"><img src="work/Shot by Macromalekule for 1001 Magazine.jpg">  <a href="https://www.instagram.com/macromalekule?igsh=emZ5Z2t5ODIyYXlu" style="text-decoration:none;" target="_blank"> <h3 class="toparaAbsolute">Shot by Macromalekule for 1001 Magazine</h3></a></div>
 	</div>
 	
 	
 	<div class="workRow">
-		<div class="imageContainer"><img src="https://i.ibb.co/pRrfZwT/Shot-by-Moderate-Films-for-NA-FORR-R.jpg">   <h3 class="toparaAbsolute">Shot by Moderate Films for NA FORRÉR</h3></div>
+		<div class="imageContainer"><img src="https://i.ibb.co/pRrfZwT/Shot-by-Moderate-Films-for-NA-FORR-R.jpg"> <a href="https://www.instagram.com/moderatefilms?igsh=dGh3Y3k1MmUxbXQx" style="text-decoration:none;" target="_blank">  <h3 class="toparaAbsolute">Shot by Moderate Films for NA FORRÉR</h3></a></div>
 		
-		<div class="imageContainer"><img src="work/Shot by Rafie HS.jpeg">   <h3 class="toparaAbsolute">Shot by Rafie HS</h3></div> 
-		<div class="imageContainer"><img src="work/Shot by Mujahid Johar .jpg">   <h3 class="toparaAbsolute">Shot by Mujahid Johar </h3></div> 
+		<div class="imageContainer"><img src="work/Shot by Rafie HS.jpeg"> <a href="https://www.instagram.com/rafiehs?igsh=MWZ4Y2Y1aG1yZnVrdw==" style="text-decoration:none;" target="_blank">  <h3 class="toparaAbsolute">Shot by Rafie HS</h3></a></div> 
+		<div class="imageContainer"><img src="work/Shot by Mujahid Johar .jpg"> <a href="https://www.instagram.com/mujahidjohar?igsh=bThzb3Ezbjc5NWE3" style="text-decoration:none;" target="_blank">  <h3 class="toparaAbsolute">Shot by Mujahid Johar </h3></a></div> 
 		
 	</div>
 	
@@ -505,17 +505,16 @@ In her free time, she loves to ride horses, practice yoga and bake vegan dessert
 			margin:40px;
 			position:relative;
 			cursor:pointer;
-			transition:0.5s ease;
-			padding:5px;
-			border:2px solid rgba(0,0,0,0.8);
+		transition:0.5s ease;
 		}
-		.imageContainer2:hover{
-			
-		}
+		
 		.imageContainer2 img{
 			width:100%;
 			max-height:100%;
 			object-fit:cover;
+			
+			padding:5px;
+			border:2px solid rgba(0,0,0,0.8);
 		
 		}
 		.toparaAbsolute2{
